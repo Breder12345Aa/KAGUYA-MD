@@ -22,11 +22,11 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6281285866502', '6281398003097']
-global.botname = 'BAYUBOT-MD'
-global.ownername = 'BAYU OFC'
-global.packname = 'BAYUBOT-MD'
-global.author = 'CREATED BY BAYU OFC'
+global.owner = ['62895322095252', '16477944776']
+global.botname = 'JANCOK-MD'
+global.ownername = 'BOT OFC'
+global.packname = 'JANCOK-MD'
+global.author = 'CREATED BY BOT OFC'
 global.sessionName = 'session'
 global.prefa = ['#','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
