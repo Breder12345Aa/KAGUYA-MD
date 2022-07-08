@@ -22,9 +22,9 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6283183321692', '16477944776'
-global.botname = 'KAGUYA BOT-MD'
-global.ownername = 'BOT-KAGUYA OFC'
+global.owner = ['6283183321692', '62895386445819'
+global.botname = 'BOT-MD'
+global.ownername = 'Owner OFC'
 global.packname = 'BOT-MD'
 global.author = 'CREATED BY BOT OFC'
 global.sessionName = 'session'
